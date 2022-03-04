@@ -1,0 +1,14 @@
+.btn-primary:hover {
+	background-color: #3b296e;
+	transform: scale(1.1);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.btn-white {
+	background-color: white;
+	border-radius: 200px;
+}
